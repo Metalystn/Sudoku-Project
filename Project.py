@@ -89,6 +89,6 @@ else:
 
 
 
-draw_board_on_console(board)
+
 backtrack(board)
 draw_board_on_console(board)
